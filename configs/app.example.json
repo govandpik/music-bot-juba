@@ -1,7 +1,7 @@
 {
   "bot": {
     "name": "Xayah",
-    "token": "",
+    "token": "ODE2NzUxNzk2OTE4ODEyNjc5.YD_hYg.EScNkAezp-_w9ueCF820ljmMQBA",
     "owners": [
     ],
     "delete_cmd_messages": true,
@@ -9,7 +9,7 @@
     "activity_text": "use .help command"
   },
   "youtube": {
-    "token": "",
+    "token": "ODE2NzUxNzk2OTE4ODEyNjc5.YD_hYg.EScNkAezp-_w9ueCF820ljmMQBA",
     "base_url": "https://www.youtube.com"
   }
 }
